@@ -1,0 +1,6 @@
+@import 'theme1';
+
+.jumbotron{
+    background: map-get($colors, wellsred );
+    color: white;
+}
